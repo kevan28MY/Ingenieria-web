@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    background-color: yellow;
+}
+table,td{
+    border: 0.5px dashed;
+}
+th{
+    border: 0;
+}
